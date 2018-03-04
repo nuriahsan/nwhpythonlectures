@@ -4,17 +4,12 @@
 
 # hlsearch on (H) or off (h):
 ~h
-# Last Substitute String:
-$
-
 # Command Line History (newest to oldest):
 :wq
+:q
 :q!
-:w
-:wq!
 
 # Search String History (newest to oldest):
-? ^\d\{3}ÿ
 
 # Expression History (newest to oldest):
 
@@ -23,176 +18,271 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
-"1	LINE	0
-	
 
 # File marks:
-'0  8  0  ~/flaskredirects
-'1  17  25  ~/flaskredirects
-'2  2  2  ~/hello3.py
-'3  24  0  ~/.profile
-'4  34  4  /etc/rc.local
-'5  8  0  /etc
-'6  127  12  /etc/rc.local
-'7  46  0  ~/.profile
-'8  45  0  ~/.profile
+'0  15  10  ~/configuration.py
+'1  31  1  ~/configuration.py
+'2  30  17  ~/configuration.py
+'3  1  0  ~/etc/defaults.cfg
+'4  21  10  ~/configuration.py
+'5  19  4  ~/configuration.py
+'6  10  7  ~/configuration.py
+'7  30  77  ~/configuration.py
+'8  5  24  ~/defaults.cfg
+'9  8  16  ~/templateinheritance.py
 
 # Jumplist (newest first):
--'  8  0  ~/flaskredirects
--'  1  0  ~/flaskredirects
--'  17  25  ~/flaskredirects
--'  2  2  ~/hello3.py
--'  1  0  ~/hello3.py
--'  24  0  ~/.profile
--'  18  0  ~/.profile
--'  1  0  ~/.profile
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  46  0  ~/.profile
--'  45  0  ~/.profile
--'  8  0  /etc
--'  1  0  /etc
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  24  0  ~/.profile
--'  18  0  ~/.profile
--'  1  0  ~/.profile
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  46  0  ~/.profile
--'  45  0  ~/.profile
--'  8  0  /etc
--'  1  0  /etc
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  24  0  ~/.profile
--'  18  0  ~/.profile
--'  1  0  ~/.profile
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  46  0  ~/.profile
--'  45  0  ~/.profile
--'  8  0  /etc
--'  1  0  /etc
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  24  0  ~/.profile
--'  18  0  ~/.profile
--'  1  0  ~/.profile
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  46  0  ~/.profile
--'  45  0  ~/.profile
--'  8  0  /etc
--'  1  0  /etc
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  2  2  ~/hello3.py
--'  1  0  ~/hello3.py
--'  24  0  ~/.profile
--'  18  0  ~/.profile
--'  1  0  ~/.profile
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
--'  127  12  /etc/rc.local
--'  46  0  ~/.profile
--'  45  0  ~/.profile
--'  8  0  /etc
--'  1  0  /etc
--'  34  4  /etc/rc.local
--'  1  0  /etc/rc.local
--'  8  0  /etc
--'  1  0  /etc
+-'  15  10  ~/configuration.py
+-'  1  0  ~/configuration.py
+-'  31  1  ~/configuration.py
+-'  30  17  ~/configuration.py
+-'  1  0  ~/etc/defaults.cfg
+-'  21  10  ~/configuration.py
+-'  19  4  ~/configuration.py
+-'  10  7  ~/configuration.py
+-'  5  24  ~/defaults.cfg
+-'  1  0  ~/defaults.cfg
+-'  8  16  ~/templateinheritance.py
+-'  1  0  ~/templateinheritance.py
+-'  1  0  ~/templates/inherits2.html
+-'  4  13  ~/templates/inherits1.html
+-'  1  0  ~/templates/inherits1.html
+-'  5  14  ~/templates/inherits2.html
+-'  10  34  ~/templates/base.html
+-'  1  0  ~/templates/base.html
+-'  21  17  ~/templateinheritance.py
+-'  2  10  ~/templateinheritance
+-'  1  0  ~/templateinheritance
+-'  9  11  ~/templatecollection.py
+-'  1  0  ~/templatecollection.py
+-'  8  19  ~/templatecollection.py
+-'  7  15  ~/templates/loops.html
+-'  1  0  ~/templates/loops.html
+-'  14  17  ~/templatecollection.py
+-'  7  10  ~/templates/hellocondition.html
+-'  1  0  ~/templates/hellocondition.html
+-'  1  0  ~/templates/hellocondtion.html
+-'  10  37  ~/templatescondition.py
+-'  1  0  ~/templatescondition.py
+-'  4  9  ~/templatescondition.py
+-'  3  14  ~/templatescondition.py
+-'  1  0  /templatecondition.py
+-'  1  0  ~/templatecondition.py
+-'  1  3  ~/templatesconditon.py
+-'  1  0  ~/templatetesting1.py
+-'  1  0  ~/templates/hello.html
+-'  8  26  ~/templatescondition.py
+-'  13  17  ~/templatescondition.py
+-'  7  0  ~/hellocondition.html
+-'  1  0  ~/hellocondition.html
+-'  1  0  ~/templates/templatetesting1.py
+-'  2  5  ~/templates/hello.html
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  12  27  ~/templatetesting1.py
+-'  8  0  ~/templatetesting1.py
+-'  14  25  ~/templatetesting1.py
+-'  17  0  ~/templatetesting1.py
+-'  4  6  ~/templates/hello.html
+-'  10  25  ~/templatetesting1.py
+-'  13  0  ~/templatetesting1.py
+-'  1  0  ~/templates/templatetesting1.py
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  7  0  ~/hellocondition.html
+-'  1  0  ~/hellocondition.html
+-'  1  0  ~/templates/templatetesting1.py
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  1  0  ~/templates/templatetesting1.py
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  1  0  ~/templates/hello.html
+-'  7  0  ~/hellocondition.html
+-'  1  0  ~/hellocondition.html
+-'  1  0  ~/templates/templatetesting1.py
+-'  2  5  ~/templates/hello.html
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  4  6  ~/templates/hello.html
+-'  1  0  ~/templatetesting1.py
+-'  1  0  ~/templates/hello.html
+-'  7  0  ~/hellocondition.html
+-'  1  0  ~/hellocondition.html
+-'  1  0  ~/templates/templatetesting1.py
+-'  2  5  ~/templates/hello.html
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  12  27  ~/templatetesting1.py
+-'  8  0  ~/templatetesting1.py
+-'  14  25  ~/templatetesting1.py
+-'  17  0  ~/templatetesting1.py
+-'  4  6  ~/templates/hello.html
+-'  10  25  ~/templatetesting1.py
+-'  13  0  ~/templatetesting1.py
+-'  1  0  ~/templates/templatetesting1.py
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  7  0  ~/hellocondition.html
+-'  1  0  ~/hellocondition.html
+-'  1  0  ~/templates/templatetesting1.py
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
+-'  1  0  ~/templates/templatetesting1.py
+-'  3  0  ~/templates/templatetesting1.py
+-'  12  25  ~/templates/templatetesting1.py
 
 # History of marks within files (newest to oldest):
 
-> ~/flaskredirects
-	"	8	0
-	^	8	0
-	.	8	0
-	+	18	16
-	+	17	25
-	+	8	0
-
-> ~/hello3.py
-	"	2	2
-	^	2	3
-	.	2	2
-	+	2	2
-
-> ~/.profile
-	"	24	0
-	^	24	1
-	.	24	0
-	+	38	0
-	+	39	0
-	+	40	0
-	+	41	0
-	+	42	0
-	+	43	0
-	+	44	0
-	+	45	0
-	+	46	0
-	+	3	0
-	+	18	55
-	+	24	0
-
-> /etc/rc.local
-	"	34	4
-	^	125	1
-	.	40	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
+> ~/configuration.py
+	"	15	10
+	^	15	11
+	.	15	10
+	+	12	21
+	+	11	20
+	+	25	52
+	+	30	17
+	+	29	25
+	+	30	40
+	+	30	77
+	+	18	10
+	+	10	7
+	+	19	5
+	+	21	10
+	+	30	53
+	+	30	36
 	+	30	1
-	+	31	1
-	+	32	1
-	+	33	1
-	+	34	1
-	+	35	1
-	+	36	1
-	+	37	0
-	+	38	0
-	+	39	0
-	+	40	0
+	+	31	3
+	+	30	10
+	+	31	2
+	+	15	10
+
+> ~/etc/defaults.cfg
+	"	1	0
+
+> ~/defaults.cfg
+	"	5	24
+	^	5	25
+	.	5	24
+	+	5	24
+
+> ~/templateinheritance.py
+	"	8	16
+	^	8	17
+	.	8	17
+	+	12	28
+	+	21	17
+	+	8	17
+
+> ~/templates/inherits2.html
+	"	1	0
+	^	5	15
+	.	5	14
+	+	5	14
+
+> ~/templates/inherits1.html
+	"	4	13
+	^	4	14
+	.	4	13
+	+	1	27
+	+	1	21
+	+	4	13
+
+> ~/templates/base.html
+	"	10	34
+	^	10	35
+	.	10	34
+	+	12	6
+	+	11	6
+	+	4	43
+	+	11	0
+	+	8	1
+	+	4	1
+	+	10	34
+
+> ~/templateinheritance
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> ~/templatecollection.py
+	"	9	11
+	^	9	12
+	.	9	11
+	+	14	17
+	+	8	19
+	+	10	1
+	+	9	11
+
+> ~/templates/loops.html
+	"	7	15
+	^	7	16
+	.	7	15
+	+	10	6
+	+	9	6
+	+	8	6
+	+	7	15
+
+> ~/templates/hellocondition.html
+	"	7	10
+	^	7	11
+	.	7	10
+	+	7	10
+
+> ~/templates/hellocondtion.html
+	"	1	0
+
+> ~/templatescondition.py
+	"	10	37
+	^	10	38
+	.	10	37
+	+	13	17
+	+	8	26
+	+	6	0
+	+	3	14
+	+	4	9
+	+	10	37
+
+> /templatecondition.py
+	"	1	0
+
+> ~/templatecondition.py
+	"	1	0
+
+> ~/templatesconditon.py
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/templatetesting1.py
+	"	1	0
+	^	12	28
+	.	12	27
+	+	14	25
+	+	17	0
+	+	14	25
+	+	12	26
+	+	8	0
+	+	12	27
+
+> ~/templates/hello.html
+	"	1	0
+	^	2	6
+	.	2	5
+	+	4	6
+	+	2	5
+
+> ~/hellocondition.html
+	"	7	0
+	^	7	0
+	.	7	0
+	+	8	6
+	+	7	0
+
+> ~/templates/templatetesting1.py
+	"	1	0
+	^	3	0
+	.	12	25
+	+	12	25

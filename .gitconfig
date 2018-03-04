@@ -1,3 +1,5 @@
 [user]
 	email = nuwarhsan87@gmail.com
 	name = nuriahsan
+[http]
+	sslverify = false
